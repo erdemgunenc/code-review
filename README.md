@@ -9,7 +9,7 @@ Evaluate and improvements the api by using rate limitter, error handler, input v
 
 ## Table of Contents
 
-- [Done List](#Brief of Done List)
+- [Brief of Done List](#DoneList)
 - [Installation](#installation)
 - [Usage](#usage)
 - [Configuration](#configuration)
@@ -17,7 +17,7 @@ Evaluate and improvements the api by using rate limitter, error handler, input v
 - [Testing](#testing)
 
 
-## Brief of Done List
+## Done List
 ```bash
   * Eslint&Prettier is added to be able to code more elegantly.
   * MongoDB atlas account is opened and configured.
@@ -39,7 +39,7 @@ Instructions on how to install and set up the project. Include any dependencies 
 
 ```bash
 # Clone the repository
-git clone <repository_url>
+git clone https://github.com/erdemgunenc/code-review
 
 # Install dependencies
 npm install
