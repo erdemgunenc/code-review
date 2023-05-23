@@ -1,0 +1,3 @@
+// Get Simulator By Profile Id
+GET http://localhost:3000/api/simulator/?value=646be2d163a4afbaacf662ab
+

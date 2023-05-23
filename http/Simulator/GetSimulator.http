@@ -1,0 +1,2 @@
+// Get Simulator
+GET http://localhost:3000/api/simulator

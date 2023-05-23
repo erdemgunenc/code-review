@@ -1,0 +1,1 @@
+export const RATE_LIMIT_MESSAGE = "Too many requests from this IP, please try again later.";
